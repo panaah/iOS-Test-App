@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "GlobalPreferences.h"
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 

@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PastChampions</key>
+	<dict>
+		<key>1964</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Arnold Palmer claims his first WMPC trophy after a 2 &amp; 1 victory over Englishman Neil Coles at the inaugural championship.</string>
+			<key>playerName</key>
+			<string>Arnold Palmer</string>
+		</dict>
+		<key>1965</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Gary Player’s maiden victory comes in the form of a 3 &amp; 2 victory over Peter Thomson. Gary will go on to set the record for number of WMPC appearances at 20, matched only by Seve Ballesteros. </string>
+			<key>playerName</key>
+			<string>Gary Player</string>
+		</dict>
+		<key>1966</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Gary Player proves he is a force in world golf throughout the Sixties by not only retaining the WMPC, but by beating the great Jack Nicklaus 6 &amp; 4.</string>
+			<key>playerName</key>
+			<string>Gary Player</string>
+		</dict>
+		<key>1967</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Peter Thomson of Australia loses in the final for the second time in three years after Arnold Palmer clinches his second title.</string>
+			<key>playerName</key>
+			<string>Arnold Palmer</string>
+		</dict>
+		<key>1968</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Gary Player lifts the WMPC trophy for a third time after defeating Bob Charles of New Zealand by 1 hole. 1969 however, will be Bob Charles’ year.</string>
+			<key>playerName</key>
+			<string>Gary Player</string>
+		</dict>
+		<key>1969</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Bob Charles becomes the first and only left-hander to win the WMPC by beating American Gene Littler at the first extra hole.</string>
+			<key>playerName</key>
+			<string>Bob Charles</string>
+		</dict>
+		<key>1970</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>For the first and only time Jack Nicklaus wins the WMPC by beating fellow American Lee Trevino 2 &amp; 1.</string>
+			<key>playerName</key>
+			<string>Jack Nicklaus</string>
+		</dict>
+		<key>1971</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Jack Nicklaus’s third appearance in a WMPC final ends in defeat as Gary Players wins comprehensively 5 &amp; 4.</string>
+			<key>playerName</key>
+			<string>Gary Player</string>
+		</dict>
+		<key>1972</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>One year before lifting the Claret Jug, Tom Weiskopf claims his one and only WMPC. He beats Lee Trevino 4 &amp; 3 in the final, three months after Lee himself wins the Open at Muirfield.</string>
+			<key>playerName</key>
+			<string>Tom Weiskopf</string>
+		</dict>
+		<key>1973</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Gary Player eventually triumphs against Graham Marsh as he edges out the Australian at the 40th hole in the longest final in the event’s history.</string>
+			<key>playerName</key>
+			<string>Gary Player</string>
+		</dict>
+		<key>1974</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Hale Irwin wins the first of two successive WMPC titles by beating the 1973 champion Gary Player 3 &amp; 1.</string>
+			<key>playerName</key>
+			<string>Hale Irwin</string>
+		</dict>
+		<key>1975</key>
+		<dict>
+			<key>playerDescription</key>
+			<string> In an all-American final, Hale Irwin joins an elite list of golfers by retaining the WMPC title with a 4 &amp; 2 victory over Al Geiberger.</string>
+			<key>playerName</key>
+			<string>Hale Irwin</string>
+		</dict>
+		<key>1976</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>David Graham finally wins the WMPC for Australia by defeating the 1974 and 1975 champion Hale Irwin at the 38th hole.</string>
+			<key>playerName</key>
+			<string>David Graham</string>
+		</dict>
+		<key>1977</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Graham Marsh makes up for his 1973 final defeat at the hands of Gary Player by beating American Raymond Floyd 5 &amp; 3.</string>
+			<key>playerName</key>
+			<string>Graham Marsh</string>
+		</dict>
+		<key>1978</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Japanese star Isao Aoki brings colour and courtesy to Wentworth’s proceedings during a 3 &amp; 2 victory over New Zealander Simon Owen.</string>
+			<key>playerName</key>
+			<string>Isao Aoki</string>
+		</dict>
+		<key>1979</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Bill Rogers prevents Isao Aoki from becoming the first Japanese golfer to retain the WMPC by winning his first and only title by 1 hole.</string>
+			<key>playerName</key>
+			<string>Bill Rogers</string>
+		</dict>
+		<key>1980</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Greg Norman starts new era for the WMPC by defeating ‘home’ favourite Sandy Lyle by one hole in an epic 36-hole final.</string>
+			<key>playerName</key>
+			<string>Greg Norman</string>
+		</dict>
+		<key>1981</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>The charismatic Seve Ballesteros takes centre stage. At the age of just 24 Seve edges out Ben Crenshaw &amp; becomes the youngest winner.</string>
+			<key>playerName</key>
+			<string>Seve Ballesteros</string>
+		</dict>
+		<key>1982</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Seve’s era of domination gains momentum as he beats Scotsman Sandy Lyle at the first extra hole.</string>
+			<key>playerName</key>
+			<string>Seve Ballesteros</string>
+		</dict>
+		<key>1983</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Greg Norman’s second WMPC comes three years after his first. He beats home favourite Nick Faldo 3 &amp; 2 who is making his first appearance in a WMPC final.</string>
+			<key>playerName</key>
+			<string>Greg Norman</string>
+		</dict>
+		<key>1984</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Seve battles with Bernhard Langer and wins his third title in four years with a slender 2 &amp; 1 victory over the German. </string>
+			<key>playerName</key>
+			<string>Seve Ballesteros</string>
+		</dict>
+		<key>1985</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Seve’s fourth WMPC comes in a repeat of the 1984 final. Bernhard Langer again has no answer to Seve’s brilliance as the winning margin this time around is a more comprehensive 6 &amp; 5.</string>
+			<key>playerName</key>
+			<string>Seve Ballesteros</string>
+		</dict>
+		<key>1986</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Greg Norman lifts the trophy for the last time during the Eighties as he beats Sandy Lyle in the final for the second time.</string>
+			<key>playerName</key>
+			<string>Greg Norman</string>
+		</dict>
+		<key>1987</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Ian Woosnam gets the ball rolling on his record-setting WMPC performances. His first of three victories sees him beat Sandy Lyle by 1 hole who is now a four-time losing finalist.</string>
+			<key>playerName</key>
+			<string>Ian Woosnam</string>
+		</dict>
+		<key>1988</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>On the 25th anniversary of the WMPC, Sandy Lyle finally triumphs, beating arch-rival Nick Faldo 2 &amp; 1.</string>
+			<key>playerName</key>
+			<string>Sandy Lyle</string>
+		</dict>
+		<key>1989</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>After losing twice in the final, Nick Faldo claims the WMPC’s first six-figure prize of £100,000 after beating Welshman Ian Woosnam. </string>
+			<key>playerName</key>
+			<string>Nick Faldo</string>
+		</dict>
+		<key>1990</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Ian Woosnam’s second title comes against the first Zimbabwean to appear in a WMPC final. Ian beats Mark McNulty 4 &amp; 2.</string>
+			<key>playerName</key>
+			<string>Ian Woosnam</string>
+		</dict>
+		<key>1991</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Seve lifts the WMPC trophy for fifth and last time, a record only equalled or bettered by South African’s Gary Player and Ernie Els.</string>
+			<key>playerName</key>
+			<string>Seve Ballesteros</string>
+		</dict>
+		<key>1992</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Nick Faldo comfortably beats America’s Jeff Sluman 8 &amp; 7 in this year’s World Match Play Championship. This would be Faldo’s second and last win of the event.</string>
+			<key>playerName</key>
+			<string>Nick Faldo</string>
+		</dict>
+		<key>1993</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>2010 US Ryder Cup Captain Corey Pavin wins his first and only WMPC by beating Nick Faldo by one hole.</string>
+			<key>playerName</key>
+			<string>Corey Pavin</string>
+		</dict>
+		<key>1994</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Ernie Els takes his first WMPC crown in a truly heavyweight final against Colin Montgomerie by beating the Scot 4 &amp; 2.</string>
+			<key>playerName</key>
+			<string>Ernie Els</string>
+		</dict>
+		<key>1995</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Ernie Els retains his WMPC title by defeating Australian Steve Elkington 3 &amp; 1. He joins Gary Player, Hale Irwin and Seve Ballesteros to be the only players to have won the championship back-to-back.</string>
+			<key>playerName</key>
+			<string>Ernie Els</string>
+		</dict>
+		<key>1996</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>For a third successive year Ernie Els wins the WMPC and sets a record for the most consecutive wins. This was achieved by defeating Vijay Singh 3 &amp; 2 in the final.</string>
+			<key>playerName</key>
+			<string>Ernie Els</string>
+		</dict>
+		<key>1997</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Vijay Singh prevents Ernie Els from his 4th successive victory. It proved to be a very close encounter between the two golfing greats, with Singh winning by the narrowest of margins of just 1 hole.</string>
+			<key>playerName</key>
+			<string>Vijay Singh</string>
+		</dict>
+		<key>1998</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Tiger Woods reaches the final on his WMPC debut, but his friend and mentor Mark O’Meara is too good for him, winning by one hole.</string>
+			<key>playerName</key>
+			<string>Mark O’Meara</string>
+		</dict>
+		<key>1999</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Mark O’Meara again reached the final, but this time came up against an in-form World No.3 Colin Montgomerie who went through the week at 29 under par with just four bogeys to take the title for the first time. The Scotsman won 3 &amp; 2 over O’Meara in the final.</string>
+			<key>playerName</key>
+			<string>Colin Montgomerie</string>
+		</dict>
+		<key>2000</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Lee Westwood takes the title and with it a record £1million prize fund before clinching his maiden Order of Merit in the same season.</string>
+			<key>playerName</key>
+			<string>Lee Westwood</string>
+		</dict>
+		<key>2001</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Ian Woosnam turns back the clock to win his third WMPC and become the first player to win the title in three different decades.</string>
+			<key>playerName</key>
+			<string>Ian Woosnam</string>
+		</dict>
+		<key>2002</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Ernie Els wins the WMPC for 4th time after defeating the youngest WMPC finalist Sergio Garcia 2 &amp; 1 in what was to be a very close encounter.</string>
+			<key>playerName</key>
+			<string>Ernie Els</string>
+		</dict>
+		<key>2003</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Up against finalist Thomas Bjorn, Ernie Els defends his title and makes it his 5th WMPC Victory. Els won 4 &amp; 3 against Bjorn in the final and set another WMPC record in the semi-final when he won 8 successive holes against previous champion Vijay Singh.</string>
+			<key>playerName</key>
+			<string>Ernie Els</string>
+		</dict>
+		<key>2004</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Els matches his previous record set from 1994 – 1996 when he completed another hat-trick of victories to win the title for a record sixth time. This 2 &amp; 1 victory over Englishman Lee Westwood breaks the previous record set by Seve Ballesteros and Gary Player who had each won the event 5 times.</string>
+			<key>playerName</key>
+			<string>Ernie Els</string>
+		</dict>
+		<key>2005</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Michael Campbell becomes the first New Zealander since Bob Charles in 1969 to win Wentworth’s WMPC.</string>
+			<key>playerName</key>
+			<string>Michael Campbell</string>
+		</dict>
+		<key>2006</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Paul Casey becomes only the third Englishman to win the WMPC in the competition’s 43 year history with a record 10 &amp; 8 victory.</string>
+			<key>playerName</key>
+			<string>Paul Casey</string>
+		</dict>
+		<key>2007</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Ernie Els defeats US Open Champion Angel Cabrera in the final for a remarkable seventh title in just twelve appearances in the Championship. He beat the Argentinean 6 &amp; 4 in the final and extends his record of WMPC victories set back in 2004 when he last won the title.</string>
+			<key>playerName</key>
+			<string>Ernie Els</string>
+		</dict>
+		<key>2009</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Having moved the tournament from Wentworth to Finca Cortesin Golf Club in Spain, Ross Fisher becomes the first WMPC winner at the new venue. The Englishman achieved this by defeating Anthony Kim 4 &amp; 3 in the final.</string>
+			<key>playerName</key>
+			<string>Ross Fisher</string>
+		</dict>
+		<key>2011</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Ian Poulter becomes the second consecutive English Volvo World Match Play Champion after a hard fought battle against world number two and fellow Englishman Luke Donald. The victory margin was 2 &amp; 1.</string>
+			<key>playerName</key>
+			<string>Ian Poulter</string>
+		</dict>
+		<key>2012</key>
+		<dict>
+			<key>playerDescription</key>
+			<string>Nicolas Colsaerts’ slim 1 up victory over 2010 U.S. Open Champion Graeme McDowell made him the first Belgian to win the Volvo World Match Play Championship, the first Belgian to win twice on the European Tour and the 26th different winner of the title.</string>
+			<key>playerName</key>
+			<string>Nicolas Colsaerts</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
