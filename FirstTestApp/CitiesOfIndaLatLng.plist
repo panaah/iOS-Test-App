@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>cityName</key>
+		<string>Faridkot, Punjab, India</string>
+		<key>cityLat</key>
+		<real>30.678186</real>
+		<key>cityLong</key>
+		<real>74.739555</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Osmanabad, Maharashtra, India</string>
+		<key>cityLat</key>
+		<real>18.186066</real>
+		<key>cityLong</key>
+		<real>76.041939</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Raichur, Karnataka, India</string>
+		<key>cityLat</key>
+		<real>16.200829</real>
+		<key>cityLong</key>
+		<real>77.362289</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Chitradurga, Karnataka, India</string>
+		<key>cityLat</key>
+		<real>14.23</real>
+		<key>cityLong</key>
+		<real>76.400002</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Mysore division, Karnataka, India</string>
+		<key>cityLat</key>
+		<real>12.311827</real>
+		<key>cityLong</key>
+		<real>76.652985</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Lalitpur, Uttar Pradesh, India</string>
+		<key>cityLat</key>
+		<real>24.68786</real>
+		<key>cityLong</key>
+		<real>78.412018</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Agar Malwa, Madhya Pradesh, India</string>
+		<key>cityLat</key>
+		<real>23.710348</real>
+		<key>cityLong</key>
+		<real>76.010178</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Shamli, Uttar Pradesh, India</string>
+		<key>cityLat</key>
+		<real>29.448055</real>
+		<key>cityLong</key>
+		<real>77.31028000000001</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Indirapuram, Ghaziabad, Uttar Pradesh, India</string>
+		<key>cityLat</key>
+		<real>28.641485</real>
+		<key>cityLong</key>
+		<real>77.37138400000001</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Mansoorabad, Hyderabad, Telangana, India</string>
+		<key>cityLat</key>
+		<real>17.351372</real>
+		<key>cityLong</key>
+		<real>78.56540699999999</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Rewari, Haryana, India</string>
+		<key>cityLat</key>
+		<real>28.191195</real>
+		<key>cityLong</key>
+		<real>76.616165</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Tirupati, Andhra Pradesh, India</string>
+		<key>cityLat</key>
+		<real>13.629065</real>
+		<key>cityLong</key>
+		<real>79.424446</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Sojat, Rajasthan, India</string>
+		<key>cityLat</key>
+		<real>25.923853</real>
+		<key>cityLong</key>
+		<real>73.665131</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Aurangabad, Bihar, India</string>
+		<key>cityLat</key>
+		<real>24.75</real>
+		<key>cityLong</key>
+		<real>84.370003</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Palghar, Maharashtra, India</string>
+		<key>cityLat</key>
+		<real>19.693558</real>
+		<key>cityLong</key>
+		<real>72.765518</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Gondia, Maharashtra, India</string>
+		<key>cityLat</key>
+		<real>21.459801</real>
+		<key>cityLong</key>
+		<real>80.19499999999999</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Bhadravati, Karnataka, India</string>
+		<key>cityLat</key>
+		<real>13.84</real>
+		<key>cityLong</key>
+		<real>75.702003</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Koronadal City, South Cotabato, Philippines</string>
+		<key>cityLat</key>
+		<real>6.497396</real>
+		<key>cityLong</key>
+		<real>124.84716</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Balrampur, Uttar Pradesh, India</string>
+		<key>cityLat</key>
+		<real>27.429707</real>
+		<key>cityLong</key>
+		<real>82.176804</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Manikchak, West Bengal, India</string>
+		<key>cityLat</key>
+		<real>25.077787</real>
+		<key>cityLong</key>
+		<real>87.900375</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Kawardha, Chhattisgarh, India</string>
+		<key>cityLat</key>
+		<real>22.008951</real>
+		<key>cityLong</key>
+		<real>81.22434199999999</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Nellore, Andhra Pradesh, India</string>
+		<key>cityLat</key>
+		<real>14.442599</real>
+		<key>cityLong</key>
+		<real>79.986458</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Karimnagar, Telangana, India</string>
+		<key>cityLat</key>
+		<real>18.438555</real>
+		<key>cityLong</key>
+		<real>79.128838</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Lonavala, Maharashtra, India</string>
+		<key>cityLat</key>
+		<real>18.74806</real>
+		<key>cityLong</key>
+		<real>73.407219</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Sujangarh, Rajasthan, India</string>
+		<key>cityLat</key>
+		<real>27.696903</real>
+		<key>cityLong</key>
+		<real>74.452972</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Kothrud, Pune, Maharashtra, India</string>
+		<key>cityLat</key>
+		<real>18.50989</real>
+		<key>cityLong</key>
+		<real>73.807182</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Haridwar, Uttarakhand, India</string>
+		<key>cityLat</key>
+		<real>29.94569</real>
+		<key>cityLong</key>
+		<real>78.16424600000001</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Moradabad, Uttar Pradesh, India</string>
+		<key>cityLat</key>
+		<real>28.841064</real>
+		<key>cityLong</key>
+		<real>78.79531900000001</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Chirimiri, Chhattisgarh, India</string>
+		<key>cityLat</key>
+		<real>23.18795</real>
+		<key>cityLong</key>
+		<real>82.354164</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Gorakhpur, Uttar Pradesh, India</string>
+		<key>cityLat</key>
+		<real>26.765844</real>
+		<key>cityLong</key>
+		<real>83.36494399999999</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Siwan, Bihar, India</string>
+		<key>cityLat</key>
+		<real>26.219622</real>
+		<key>cityLong</key>
+		<real>84.35665899999999</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Jharsuguda, Odisha, India</string>
+		<key>cityLat</key>
+		<real>21.85</real>
+		<key>cityLong</key>
+		<real>84.029999</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Adambakkam, Chennai, Tamil Nadu, India</string>
+		<key>cityLat</key>
+		<real>12.981241</real>
+		<key>cityLong</key>
+		<real>80.20945</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Anand, Gujarat, India</string>
+		<key>cityLat</key>
+		<real>22.556</real>
+		<key>cityLong</key>
+		<real>72.950996</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Chhapra, Bihar, India</string>
+		<key>cityLat</key>
+		<real>25.779566</real>
+		<key>cityLong</key>
+		<real>84.749886</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Surat, Gujarat, India</string>
+		<key>cityLat</key>
+		<real>21.17024</real>
+		<key>cityLong</key>
+		<real>72.831062</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Sheopur, Madhya Pradesh, India</string>
+		<key>cityLat</key>
+		<real>25.67</real>
+		<key>cityLong</key>
+		<real>76.699997</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Phagwara, Punjab, India</string>
+		<key>cityLat</key>
+		<real>31.22402</real>
+		<key>cityLong</key>
+		<real>75.770798</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Sendhwa, Madhya Pradesh, India</string>
+		<key>cityLat</key>
+		<real>21.681898</real>
+		<key>cityLong</key>
+		<real>75.094269</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Daman, Daman and Diu, India</string>
+		<key>cityLat</key>
+		<real>20.397373</real>
+		<key>cityLong</key>
+		<real>72.832802</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Narnaul, Haryana, India</string>
+		<key>cityLat</key>
+		<real>28.065796</real>
+		<key>cityLong</key>
+		<real>76.101479</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Deesa, Gujarat, India</string>
+		<key>cityLat</key>
+		<real>24.258503</real>
+		<key>cityLong</key>
+		<real>72.190674</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Nabha, Punjab, India</string>
+		<key>cityLat</key>
+		<real>30.373674</real>
+		<key>cityLong</key>
+		<real>76.14518700000001</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Zirakpur, Haryana, India</string>
+		<key>cityLat</key>
+		<real>30.642803</real>
+		<key>cityLong</key>
+		<real>76.816902</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Chachiyawas, Rajasthan, India</string>
+		<key>cityLat</key>
+		<real>26.570478</real>
+		<key>cityLong</key>
+		<real>74.67443799999999</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Khurja, Uttar Pradesh, India</string>
+		<key>cityLat</key>
+		<real>28.252222</real>
+		<key>cityLong</key>
+		<real>77.85178399999999</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Raigarh, Chhattisgarh, India</string>
+		<key>cityLat</key>
+		<real>21.9</real>
+		<key>cityLong</key>
+		<real>83.400002</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Haldia, West Bengal, India</string>
+		<key>cityLat</key>
+		<real>22.066673</real>
+		<key>cityLong</key>
+		<real>88.06980900000001</real>
+	</dict>
+	<dict>
+		<key>cityName</key>
+		<string>Bidar, Karnataka, India</string>
+		<key>cityLat</key>
+		<real>17.92</real>
+		<key>cityLong</key>
+		<real>77.519722</real>
+	</dict>
+</array>
+</plist>

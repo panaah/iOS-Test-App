@@ -11,6 +11,7 @@
 #import "MyTableViewController.h"
 #import "MyCollectionViewController.h"
 #import "LoginViewController.h"
+#import "MapViewController.h"
 
 @implementation GlobalPreferences
 
@@ -59,9 +60,13 @@ static GlobalPreferences *shared = nil;
     objMyCollectionVC.title = @"Monuments";
     UINavigationController *navCollection = [[UINavigationController alloc] initWithRootViewController:objMyCollectionVC];
     
+    MapViewController *objMapVC = [MapViewController new];
+    objMapVC.title = @"Maps";
+    UINavigationController *navMaps = [[UINavigationController alloc] initWithRootViewController:objMapVC];
+    
     UITabBarController *tabbarController = [[UITabBarController alloc] init];
-    [tabbarController setViewControllers:@[navHome,navMyTable,navCollection]];
-    tabbarController.selectedIndex = 0;
+    [tabbarController setViewControllers:@[navHome,navMyTable,navCollection,navMaps]];
+    tabbarController.selectedIndex = 3;
     
     return tabbarController;
 }

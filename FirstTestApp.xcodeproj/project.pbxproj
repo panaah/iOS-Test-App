@@ -292,6 +292,12 @@
 		98E4CBDA1A67671100368807 /* world3.png in Resources */ = {isa = PBXBuildFile; fileRef = 98E4CADA1A67671100368807 /* world3.png */; };
 		98E4CBDB1A67671100368807 /* zakim1.png in Resources */ = {isa = PBXBuildFile; fileRef = 98E4CADB1A67671100368807 /* zakim1.png */; };
 		98ED120E1A5F7D340064DA12 /* MyTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 98ED120D1A5F7D340064DA12 /* MyTableViewController.m */; };
+		98EE056E1A89AA1A001B729F /* MapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 98EE056C1A89AA1A001B729F /* MapViewController.m */; };
+		98EE056F1A89AA1A001B729F /* MapViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 98EE056D1A89AA1A001B729F /* MapViewController.xib */; };
+		98EE05711A89AA8E001B729F /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 98EE05701A89AA8E001B729F /* MapKit.framework */; };
+		98EE05761A89AB71001B729F /* MyAnnotation.m in Sources */ = {isa = PBXBuildFile; fileRef = 98EE05751A89AB71001B729F /* MyAnnotation.m */; };
+		98EE05781A89AE67001B729F /* CitiesOfIndaLatLng.plist in Resources */ = {isa = PBXBuildFile; fileRef = 98EE05771A89AE67001B729F /* CitiesOfIndaLatLng.plist */; };
+		98EE057C1A89B1A0001B729F /* MapPin.m in Sources */ = {isa = PBXBuildFile; fileRef = 98EE057B1A89B1A0001B729F /* MapPin.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -607,6 +613,15 @@
 		98E4CADB1A67671100368807 /* zakim1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = zakim1.png; sourceTree = "<group>"; };
 		98ED120C1A5F7D340064DA12 /* MyTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyTableViewController.h; sourceTree = "<group>"; };
 		98ED120D1A5F7D340064DA12 /* MyTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyTableViewController.m; sourceTree = "<group>"; };
+		98EE056B1A89AA1A001B729F /* MapViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapViewController.h; sourceTree = "<group>"; };
+		98EE056C1A89AA1A001B729F /* MapViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapViewController.m; sourceTree = "<group>"; };
+		98EE056D1A89AA1A001B729F /* MapViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MapViewController.xib; sourceTree = "<group>"; };
+		98EE05701A89AA8E001B729F /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		98EE05741A89AB71001B729F /* MyAnnotation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyAnnotation.h; sourceTree = "<group>"; };
+		98EE05751A89AB71001B729F /* MyAnnotation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyAnnotation.m; sourceTree = "<group>"; };
+		98EE05771A89AE67001B729F /* CitiesOfIndaLatLng.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = CitiesOfIndaLatLng.plist; sourceTree = "<group>"; };
+		98EE057A1A89B1A0001B729F /* MapPin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapPin.h; sourceTree = "<group>"; };
+		98EE057B1A89B1A0001B729F /* MapPin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapPin.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -614,6 +629,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				98EE05711A89AA8E001B729F /* MapKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -650,6 +666,7 @@
 			isa = PBXGroup;
 			children = (
 				984AE3541A5B7FC7008B9FC5 /* FirstTestApp */,
+				98EE05721A89AA98001B729F /* Frameworks */,
 				984AE36E1A5B7FC7008B9FC5 /* FirstTestAppTests */,
 				984AE3531A5B7FC7008B9FC5 /* Products */,
 			);
@@ -684,6 +701,7 @@
 		984AE3551A5B7FC7008B9FC5 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				98EE05771A89AE67001B729F /* CitiesOfIndaLatLng.plist */,
 				98380FA61A6613BF005F4BB0 /* PastChampions.plist */,
 				984AE3561A5B7FC7008B9FC5 /* Info.plist */,
 				984AE3571A5B7FC7008B9FC5 /* main.m */,
@@ -712,6 +730,7 @@
 		984AE37D1A5B88BB008B9FC5 /* Helper Classes */ = {
 			isa = PBXGroup;
 			children = (
+				98EE05731A89AB5D001B729F /* Annotation */,
 				989388981A79DE83008BAB89 /* Global Preferences */,
 				989388991A79DE83008BAB89 /* Helper Functions */,
 				9876FA171A64BE4B00271CC5 /* Categories */,
@@ -734,6 +753,7 @@
 		984AE37F1A5B88BB008B9FC5 /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				98EE05791A89B196001B729F /* MapPin */,
 				98380FAB1A6615B5005F4BB0 /* Player */,
 			);
 			path = Models;
@@ -742,6 +762,7 @@
 		984AE3801A5B88BB008B9FC5 /* View Controllers */ = {
 			isa = PBXGroup;
 			children = (
+				98EE056A1A89AA0C001B729F /* Map */,
 				981F61CA1A7C82F300E1FF14 /* Login */,
 				98E4C9D51A67640700368807 /* My Collection */,
 				98AFA6961A60D2EB000A4084 /* Detail */,
@@ -1127,6 +1148,42 @@
 			path = "My Table";
 			sourceTree = "<group>";
 		};
+		98EE056A1A89AA0C001B729F /* Map */ = {
+			isa = PBXGroup;
+			children = (
+				98EE056B1A89AA1A001B729F /* MapViewController.h */,
+				98EE056C1A89AA1A001B729F /* MapViewController.m */,
+				98EE056D1A89AA1A001B729F /* MapViewController.xib */,
+			);
+			path = Map;
+			sourceTree = "<group>";
+		};
+		98EE05721A89AA98001B729F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				98EE05701A89AA8E001B729F /* MapKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		98EE05731A89AB5D001B729F /* Annotation */ = {
+			isa = PBXGroup;
+			children = (
+				98EE05741A89AB71001B729F /* MyAnnotation.h */,
+				98EE05751A89AB71001B729F /* MyAnnotation.m */,
+			);
+			path = Annotation;
+			sourceTree = "<group>";
+		};
+		98EE05791A89B196001B729F /* MapPin */ = {
+			isa = PBXGroup;
+			children = (
+				98EE057A1A89B1A0001B729F /* MapPin.h */,
+				98EE057B1A89B1A0001B729F /* MapPin.m */,
+			);
+			path = MapPin;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -1255,6 +1312,7 @@
 				98E4CB371A67671100368807 /* greek2.png in Resources */,
 				98E4CB281A67671100368807 /* flags4.png in Resources */,
 				98E4CAF91A67671100368807 /* blue1.png in Resources */,
+				98EE056F1A89AA1A001B729F /* MapViewController.xib in Resources */,
 				98E4CADC1A67671100368807 /* abu.png in Resources */,
 				98E4CBC51A67671100368807 /* tomb1.png in Resources */,
 				98E4CB791A67671100368807 /* nickel.png in Resources */,
@@ -1420,6 +1478,7 @@
 				98E4CBCC1A67671100368807 /* twelve.png in Resources */,
 				98E4CB861A67671100368807 /* pompidou1.png in Resources */,
 				98E4CB251A67671100368807 /* erasmusbrug1.png in Resources */,
+				98EE05781A89AE67001B729F /* CitiesOfIndaLatLng.plist in Resources */,
 				98E4CB5C1A67671100368807 /* maqam1.png in Resources */,
 				98E4CB5A1A67671100368807 /* machu.png in Resources */,
 				98E4CB291A67671100368807 /* fort.png in Resources */,
@@ -1497,6 +1556,7 @@
 				984AE35B1A5B7FC7008B9FC5 /* AppDelegate.m in Sources */,
 				9893889C1A79DE9B008BAB89 /* GlobalPreferences.m in Sources */,
 				98C1F57A1A5CD94100D7661A /* FullScreenViewController.m in Sources */,
+				98EE057C1A89B1A0001B729F /* MapPin.m in Sources */,
 				9876FA1B1A64BE4B00271CC5 /* UIScrollView+ZoomToPoint.m in Sources */,
 				981F61CE1A7C830700E1FF14 /* LoginViewController.m in Sources */,
 				9893889F1A79DEAD008BAB89 /* HelperFunctions.m in Sources */,
@@ -1504,8 +1564,10 @@
 				98E4C9D91A67642B00368807 /* MyCollectionViewController.m in Sources */,
 				98ED120E1A5F7D340064DA12 /* MyTableViewController.m in Sources */,
 				984AE38B1A5B8923008B9FC5 /* ComponentsViewController.m in Sources */,
+				98EE05761A89AB71001B729F /* MyAnnotation.m in Sources */,
 				98AFA6991A60D2FF000A4084 /* DetailViewController.m in Sources */,
 				98380FAE1A6615B5005F4BB0 /* Player.m in Sources */,
+				98EE056E1A89AA1A001B729F /* MapViewController.m in Sources */,
 				98E4C9D31A67601F00368807 /* PlayerCell.m in Sources */,
 				984AE3861A5B88BB008B9FC5 /* HomeViewController.m in Sources */,
 			);
