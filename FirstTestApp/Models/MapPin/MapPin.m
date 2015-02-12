@@ -12,7 +12,7 @@
 
 - (void)setupPin:(NSDictionary *)dictCity {
     self.latitude = [[dictCity valueForKey:@"cityLat"] doubleValue];
-    self.longitude = [[dictCity valueForKey:@"cityLng"] doubleValue];
+    self.longitude = [[dictCity valueForKey:@"cityLong"] doubleValue];
     self.title = [dictCity valueForKey:@"cityName"];
     self.subtitle = [dictCity valueForKey:@"cityName"];
 }

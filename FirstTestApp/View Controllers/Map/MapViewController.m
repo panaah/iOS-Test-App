@@ -45,6 +45,8 @@
         MyAnnotation *objAnnotation = [[MyAnnotation alloc] initWithPin:pin];
         [myMapView addAnnotation:objAnnotation];
     }
+    
+    
 }
 
 #pragma mark Map Delegates
@@ -52,11 +54,14 @@
     static NSString *identifier = @"my_map_view_identifier";
     if ([annotation isKindOfClass:[MyAnnotation class]]) {
         MyAnnotation *myAnnotation = (MyAnnotation *)annotation;
-        MKAnnotationView *view = (MKAnnotationView *)[mapView dequeueReusableAnnotationViewWithIdentifier:identifier];
+        MKPinAnnotationView *view = (MKPinAnnotationView *)[mapView dequeueReusableAnnotationViewWithIdentifier:identifier];
         if (view == nil) {
             view = [[MKPinAnnotationView alloc] initWithAnnotation:myAnnotation reuseIdentifier:identifier];
             view.enabled = YES;
             view.canShowCallout = YES;
+            view.animatesDrop = YES;
+//            view.image = [UIImage imageNamed:@"custom_pin.png"];
+            view.leftCalloutAccessoryView = [UIButton buttonWithType:UIButtonTypeContactAdd];
             view.rightCalloutAccessoryView = [UIButton buttonWithType:UIButtonTypeDetailDisclosure];
         } else {
             view.annotation = myAnnotation;

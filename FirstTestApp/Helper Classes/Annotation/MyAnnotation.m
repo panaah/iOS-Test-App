@@ -18,6 +18,9 @@
         self.longitude = pin.longitude;
         self.title = pin.title;
         self.subtitle = pin.subtitle;
+        
+        _coordinate.latitude = self.latitude;
+        _coordinate.longitude = self.longitude;
     }
     return self;
 }
